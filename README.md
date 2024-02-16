@@ -36,7 +36,7 @@ public class CalcController {
 ![Контроллер суммы Рис.2](https://github.com/MatveyBashirov/Calculator/blob/main/images/swagger2.png?raw=true, "Контроллер суммы Рис.2")
 ![Контроллер разности Рис.1](https://github.com/MatveyBashirov/Calculator/blob/main/images/swagger3.png?raw=true, "Контроллер разности Рис.1")
 ![Контроллер разности Рис.2](https://github.com/MatveyBashirov/Calculator/blob/main/images/swagger4.png?raw=true, "Контроллер разности Рис.2")  
-###3. Добавил необходимые тесты на методы контроллера в новом классе "CalcControllerTest"  
+### 3. Добавил необходимые тесты на методы контроллера в новом классе "CalcControllerTest"  
 ```java
 package ru.neoflex.practice.controller;
 
