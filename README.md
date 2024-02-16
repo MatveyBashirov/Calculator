@@ -94,3 +94,5 @@ class CalcControllerTest {
     }
 }
 ```
+Результаты выполнения тестов:  
+![Выполнения тестов](https://github.com/MatveyBashirov/Calculator/blob/main/images/test3.png?raw=true, "Выполнения тестов")
