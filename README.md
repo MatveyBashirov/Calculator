@@ -131,7 +131,7 @@ public class resultTable {
     @Column(name = "result")
     private int result;
 
-    /*Комментарий*/
+    /*Конструктор по умолчанию*/
     public resultTable(){
 
     }
